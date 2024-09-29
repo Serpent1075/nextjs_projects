@@ -35,6 +35,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
+
 ``` install
 yarn add react-spinners
 yarn add react-icons
@@ -43,12 +44,13 @@ yarn add zustand #react 상태관리 전역적으로 가능
 yarn add next-themes
 yarn add react-use #https://github.com/streamich/react-use
 yarn add clsx
+yarn add next-auth
+yarn add next-intl
 
-npx shadcn-ui@latest init
-npx shadcn-ui@latest add avatar
-npx shadcn-ui@latest add drawer
-npx shadcn-ui@latest add carousel
-npx shadcn-ui@latest add dropdown-menu
-npx shadcn-ui@latest add slider
+npx shadcn@latest init
+npx shadcn@latest add avatar
+npx shadcn@latest add drawer
+npx shadcn@latest add carousel
+npx shadcn@latest add dropdown-menu
+npx shadcn@latest add slider
 ```
-
